@@ -1,6 +1,5 @@
 # Football-App
 
-Download apk link :https://play.google.com/store/apps/details?id=com.anashaker.islam
 
 Flutter Football app . you will find in it every thing about football starting from results , matches , soccers , events , lineup , teams , leagues and champions
 also you will find all news for every league 
